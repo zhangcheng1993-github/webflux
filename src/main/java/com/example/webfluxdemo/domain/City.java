@@ -8,7 +8,7 @@ public class City {
     /**
      * 城市编号
      */
-    private Long idh67io;
+    private Long id;
 
     /**
      * 省份编号
